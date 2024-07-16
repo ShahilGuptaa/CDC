@@ -1,0 +1,1 @@
+{"name":"Local: Q3","url":"e:\\OA-2023\\Oracle\\Q3.cpp","tests":[{"id":1689575309357,"input":"1\n5\n1 3 5 2 10","output":"49"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\OA-2023\\Oracle\\Q3.cpp","group":"local","local":true}

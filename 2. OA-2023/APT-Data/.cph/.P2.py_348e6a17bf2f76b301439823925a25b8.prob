@@ -1,0 +1,1 @@
+{"name":"Local: P2","url":"e:\\OA-2023\\APT-Data\\P2.py","tests":[{"id":1690204975091,"input":"5 2\n1 2\n1 4\n2 3\n2 5","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\OA-2023\\APT-Data\\P2.py","group":"local","local":true}

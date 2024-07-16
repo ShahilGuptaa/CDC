@@ -1,0 +1,1 @@
+{"name":"Local: A_Krushkal","url":"c:\\Users\\shahi\\Desktop\\CDC\\Graphs-Standard\\MSP\\A_Krushkal.cpp","tests":[{"id":1716380491540,"input":"6 7\n1 3 1\n1 2 2\n2 3 3\n3 4 10\n3 6 2\n4 5 4\n5 6 1","output":"10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\shahi\\Desktop\\CDC\\Graphs-Standard\\MSP\\A_Krushkal.cpp","group":"local","local":true}

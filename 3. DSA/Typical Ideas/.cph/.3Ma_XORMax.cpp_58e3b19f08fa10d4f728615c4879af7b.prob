@@ -1,0 +1,1 @@
+{"name":"Local: 3Ma_XORMax","url":"c:\\Users\\shahi\\Desktop\\CDC\\Trie\\3Ma_XORMax.cpp","tests":[{"id":1717343775707,"input":"12\n? 4\n+ 4\n? 4\n+ 4\n? 3\n- 4\n- 4\n? 3\n+ 4\n? 4\n+ 1\n+ 1","output":"4\n4\n7\n3\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\shahi\\Desktop\\CDC\\Trie\\3Ma_XORMax.cpp","group":"local","local":true}

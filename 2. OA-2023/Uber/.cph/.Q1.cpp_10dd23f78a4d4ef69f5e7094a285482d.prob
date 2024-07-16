@@ -1,0 +1,1 @@
+{"name":"Local: Q1","url":"e:\\OA-2023\\Uber\\Q1.cpp","tests":[{"id":1689765051914,"input":"HELLOW\nHELLOW","output":"11"},{"id":1689765069812,"input":"HELLOW\nHOW","output":"6"},{"id":1689765083069,"input":"HELLOW\nHO","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\OA-2023\\Uber\\Q1.cpp","group":"local","local":true}

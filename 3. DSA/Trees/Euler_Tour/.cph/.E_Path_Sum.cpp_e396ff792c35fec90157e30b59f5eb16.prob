@@ -1,0 +1,1 @@
+{"name":"Local: E_Path_Sum","url":"c:\\Users\\shahi\\Desktop\\CDC\\Trees\\Euler_Tour\\E_Path_Sum.cpp","tests":[{"id":1716618969588,"input":"5 3\n4 2 5 2 1\n1 2\n1 3\n3 4\n3 5\n2 4\n1 3 2\n2 4","output":"11\n8"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\shahi\\Desktop\\CDC\\Trees\\Euler_Tour\\E_Path_Sum.cpp","group":"local","local":true}

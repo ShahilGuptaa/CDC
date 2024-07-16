@@ -1,0 +1,1 @@
+{"name":"Local: B_Subset_Problem_TD","url":"c:\\Users\\shahi\\Desktop\\CDC\\DP-Standard\\A_01_KnapSack\\B_Subset_Problem_TD.cpp","tests":[{"id":1715716759364,"input":"5 30\n1 11 1 4 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\shahi\\Desktop\\CDC\\DP-Standard\\A_01_KnapSack\\B_Subset_Problem_TD.cpp","group":"local","local":true}

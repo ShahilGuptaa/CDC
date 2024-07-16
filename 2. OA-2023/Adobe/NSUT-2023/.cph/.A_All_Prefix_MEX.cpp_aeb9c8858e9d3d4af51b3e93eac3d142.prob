@@ -1,0 +1,1 @@
+{"name":"Local: A_All_Prefix_MEX","url":"e:\\OA-2023\\Adobe\\2023\\Questions\\NSUT-2023\\A_All_Prefix_MEX.cpp","tests":[{"id":1689526654725,"input":"1\n5\n3 0 2 40 1","output":"0 1 1 1 4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\OA-2023\\Adobe\\2023\\Questions\\NSUT-2023\\A_All_Prefix_MEX.cpp","group":"local","local":true}

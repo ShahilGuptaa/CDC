@@ -1,0 +1,1 @@
+{"name":"Local: A_Quick_Sort","url":"c:\\Users\\shahi\\Desktop\\CDC\\Sorting\\A_Quick_Sort.cpp","tests":[{"id":1717336972983,"input":"2\n6\n9 8 7 6 5 4 \n5\n4 2 1 3 5","output":"4 5 6 7 8 9 \n1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\shahi\\Desktop\\CDC\\Sorting\\A_Quick_Sort.cpp","group":"local","local":true}

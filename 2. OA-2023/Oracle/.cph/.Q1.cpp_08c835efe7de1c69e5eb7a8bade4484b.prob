@@ -1,0 +1,1 @@
+{"name":"Local: Q1","url":"e:\\OA-2023\\Oracle\\Q1.cpp","tests":[{"id":1689574412373,"input":"1\naxx#bb#c\naxbd#c#c","output":"1"},{"id":1689574451796,"input":"2\nabcd##\nabb#\nabbbb#\nab#aa","output":"1\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\OA-2023\\Oracle\\Q1.cpp","group":"local","local":true}

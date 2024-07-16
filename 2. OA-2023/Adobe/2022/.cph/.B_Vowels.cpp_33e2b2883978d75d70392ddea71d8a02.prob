@@ -1,0 +1,1 @@
+{"name":"Local: B_Vowels","url":"e:\\OA-2023\\Adobe\\2022\\B_Vowels.cpp","tests":[{"id":1689496078128,"input":"1\n5\naba\nbcb\nece\naa\ne\n3\n1 3\n2 5\n2 2","output":"2\n3\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\OA-2023\\Adobe\\2022\\B_Vowels.cpp","group":"local","local":true}

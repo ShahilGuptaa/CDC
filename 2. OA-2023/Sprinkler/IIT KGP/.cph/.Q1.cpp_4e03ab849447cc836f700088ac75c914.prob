@@ -1,0 +1,1 @@
+{"name":"Local: Q1","url":"e:\\OA-2023\\Sprinkler\\IIT KGP\\Q1.cpp","tests":[{"id":1690639716050,"input":"abbaacaacbd","output":"4"},{"id":1690640356370,"input":"1\n5 2\n7 3","output":"3"},{"id":1690640378676,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\OA-2023\\Sprinkler\\IIT KGP\\Q1.cpp","group":"local","local":true}

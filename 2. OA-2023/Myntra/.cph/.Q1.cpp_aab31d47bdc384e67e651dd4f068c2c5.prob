@@ -1,0 +1,1 @@
+{"name":"Local: Q1","url":"e:\\OA-2023\\Myntra\\Q1.cpp","tests":[{"id":1692794604522,"input":"3\n2 1 1","output":"1"},{"id":1692794696161,"input":"9\n1 3 6 1 0 9 8 7 6","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\OA-2023\\Myntra\\Q1.cpp","group":"local","local":true}

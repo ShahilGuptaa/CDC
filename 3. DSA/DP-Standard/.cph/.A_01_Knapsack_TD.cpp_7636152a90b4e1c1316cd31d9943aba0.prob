@@ -1,0 +1,1 @@
+{"name":"Local: A_01_Knapsack_TD","url":"c:\\Users\\shahi\\Desktop\\CDC\\DP-Standard\\A_01_Knapsack_TD.cpp","tests":[{"id":1703199628825,"input":"4 7\n1 3 4 5\n1 4 5 7","output":"9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\shahi\\Desktop\\CDC\\DP-Standard\\A_01_Knapsack_TD.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 3Mb_Max_XOR_Subarray","url":"c:\\Users\\shahi\\Desktop\\CDC\\Trie\\3Mb_Max_XOR_Subarray.cpp","tests":[{"id":1717352926594,"input":"3\n5\n1 2 3 4 5\n6\n7 14 6 8 6 65\n5\n74 14 5 6 9","output":"7\n79\n78"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\shahi\\Desktop\\CDC\\Trie\\3Mb_Max_XOR_Subarray.cpp","group":"local","local":true}

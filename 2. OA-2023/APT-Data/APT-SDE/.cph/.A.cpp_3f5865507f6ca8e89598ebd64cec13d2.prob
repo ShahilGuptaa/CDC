@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"e:\\OA-2023\\APT-Data\\APT-SDE\\A.cpp","tests":[{"id":1690292925216,"input":"6\n1 2 3 3 5 2","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\OA-2023\\APT-Data\\APT-SDE\\A.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"e:\\OA-2023\\Goldman Sachs\\CS\\B.cpp","tests":[{"id":1690716234244,"input":"9 10\n1 2 5 2\n2 3 5 3\n2 4 7 4\n2 5 4 6\n5 6 7 4\n5 9 7 4\n5 8 4 7\n6 7 6 2\n7 8 5 2\n4 5 6 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\OA-2023\\Goldman Sachs\\CS\\B.cpp","group":"local","local":true}

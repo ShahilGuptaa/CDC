@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"e:\\OA-2023\\Uber\\KGP-2023\\A.cpp","tests":[{"id":1689956635886,"input":"5 42\n-9 95 94 4 51","output":"-1"},{"id":1689956726969,"input":"6 1\n0 1 4 3 2 5","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\OA-2023\\Uber\\KGP-2023\\A.cpp","group":"local","local":true}

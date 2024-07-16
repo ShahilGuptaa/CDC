@@ -1,0 +1,1 @@
+{"name":"Local: F_Grid_Path","url":"c:\\Users\\shahi\\Desktop\\CDC\\DP-Standard\\CSES\\F_Grid_Path.cpp","tests":[{"id":1703270797878,"input":"4\n....\n.*..\n...*\n*...","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\shahi\\Desktop\\CDC\\DP-Standard\\CSES\\F_Grid_Path.cpp","group":"local","local":true}

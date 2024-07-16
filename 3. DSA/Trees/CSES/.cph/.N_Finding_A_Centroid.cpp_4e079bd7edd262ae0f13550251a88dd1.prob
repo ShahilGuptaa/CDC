@@ -1,0 +1,1 @@
+{"name":"Local: N_Finding_A_Centroid","url":"c:\\Users\\shahi\\Desktop\\CDC\\3. DSA\\Trees\\CSES\\N_Finding_A_Centroid.cpp","tests":[{"id":1718102569981,"input":"5\n1 2\n2 3\n3 4\n3 5","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\shahi\\Desktop\\CDC\\3. DSA\\Trees\\CSES\\N_Finding_A_Centroid.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\Users\\shahi\\Desktop\\CDC\\OS\\A.cpp","tests":[{"id":1720192891590,"input":"2\n5\n3 3 3 3 3\n4\n1 4 3 2","output":""},{"id":1720194113362,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\shahi\\Desktop\\CDC\\OS\\A.cpp","group":"local","local":true}
